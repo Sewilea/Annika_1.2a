@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4aa1934370ec9941b396ff699d45dd7, type: 3}
+  m_Name: Potato
+  m_EditorClassIdentifier: 
+  ItemName: Potato
+  ItemInfo: 
+  ID: 6
+  TypeID: 3
+  sprite: {fileID: 4437813026912723317, guid: aa74ff8d788275446a2a9e3b923ab82d, type: 3}
+  forbreak: {fileID: 11400000, guid: 5abce92b23cc896428fb42c534394c8d, type: 2}
+  ifcrop: {fileID: 0}
+  BuyCoin: 0
+  SellCoin: 40

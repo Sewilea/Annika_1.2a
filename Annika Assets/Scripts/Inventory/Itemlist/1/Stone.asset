@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4aa1934370ec9941b396ff699d45dd7, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  ItemName: Stone
+  ItemInfo: 
+  ID: 2
+  TypeID: 1
+  sprite: {fileID: 3379066624450153177, guid: c64549f242d86ba43850c3ba5ad82517, type: 3}
+  forbreak: {fileID: 11400000, guid: 80b25aef5885b8a4f9f17f22e780a53c, type: 2}
+  ifcrop: {fileID: 0}
+  BuyCoin: 0
+  SellCoin: 2
